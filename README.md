@@ -1,8 +1,6 @@
-# contact management
-project exercise for my job interview
+# Contact Management System
+Project exercise for my job interview
 
-
-Contact Management System
 
 This codebase is created to demonstrate an intranet application built with .Net Web API that interacts with the database server to add, edit, delete and list all contacts. It also has a UI built with HTML, JQuery and Ajax features with all the basic validations for testing the Rest API services.
 
